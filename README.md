@@ -1,3 +1,3 @@
-# Project 1
+# Software Testing
 
 Web Programming with Python and JavaScript
