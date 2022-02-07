@@ -1,0 +1,80 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1,
+    "items": [
+        {
+        "kind": "books#volume",
+        "id": "9GbH3006EvQC",
+        "etag": "Y+4Hc0ULY/E",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9GbH3006EvQC",
+        "volumeInfo": {
+            "title": "Four Blondes",
+            "authors": [
+            "Candace Bushnell"
+            ],
+            "publishedDate": "2001-06",
+            "description": "Four very different women endure romantic intrigues, betrayals, liaisons, and victories as they seek love amid the playgrounds of the rich and powerful.",
+            "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "080213825X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780802138255"
+            }
+            ],
+            "readingModes": {
+            "text": false,
+            "image": false
+            },
+            "pageCount": 245,
+            "printType": "BOOK",
+            "categories": [
+            "Fiction"
+            ],
+            "averageRating": 2.5,
+            "ratingsCount": 14,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.0",
+            "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+            },
+            "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9GbH3006EvQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9GbH3006EvQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ni/books?id=9GbH3006EvQC&dq=isbn:080213825X&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com.ni/books?id=9GbH3006EvQC&dq=isbn:080213825X&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Four_Blondes.html?hl=&id=9GbH3006EvQC"
+        },
+        "saleInfo": {
+            "country": "NI",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "NI",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+            "isAvailable": false
+            },
+            "pdf": {
+            "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=9GbH3006EvQC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Sex And The City author Candace Bushnell returns to the playgrounds of Manhattan's powerful and beautiful with her sizzling sensation Four Blondes, which gives an insider's look at the romantic intrigues, liaisons, and betrayals among the ..."
+        }
+        }
+    ]
+}
